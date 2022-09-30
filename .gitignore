@@ -1,6 +1,9 @@
 # sphinx build directories
 _build/
 
+# virtualenv directory
+venv/
+
 # dotfiles
 .*
 !.gitignore
